@@ -15,13 +15,13 @@ body {
 }
 
 #logo {
-  width: 100px;
+  width: 200px;
 }
 
 #demo {
   margin: 0;
   text-align: left;
-  font-size: 80px;
+  font-size: 160px;
   color: #fffcf6;
-  -webkit-text-stroke: 2px #f7a400;
+  -webkit-text-stroke: 4px #f7a400;
 }
